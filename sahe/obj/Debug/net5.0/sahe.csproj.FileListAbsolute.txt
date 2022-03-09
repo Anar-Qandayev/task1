@@ -1,0 +1,15 @@
+C:\Users\ibm\source\repos\sahe\sahe\bin\Debug\net5.0\sahe.exe
+C:\Users\ibm\source\repos\sahe\sahe\bin\Debug\net5.0\sahe.deps.json
+C:\Users\ibm\source\repos\sahe\sahe\bin\Debug\net5.0\sahe.runtimeconfig.json
+C:\Users\ibm\source\repos\sahe\sahe\bin\Debug\net5.0\sahe.runtimeconfig.dev.json
+C:\Users\ibm\source\repos\sahe\sahe\bin\Debug\net5.0\sahe.dll
+C:\Users\ibm\source\repos\sahe\sahe\bin\Debug\net5.0\ref\sahe.dll
+C:\Users\ibm\source\repos\sahe\sahe\bin\Debug\net5.0\sahe.pdb
+C:\Users\ibm\source\repos\sahe\sahe\obj\Debug\net5.0\sahe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibm\source\repos\sahe\sahe\obj\Debug\net5.0\sahe.AssemblyInfoInputs.cache
+C:\Users\ibm\source\repos\sahe\sahe\obj\Debug\net5.0\sahe.AssemblyInfo.cs
+C:\Users\ibm\source\repos\sahe\sahe\obj\Debug\net5.0\sahe.csproj.CoreCompileInputs.cache
+C:\Users\ibm\source\repos\sahe\sahe\obj\Debug\net5.0\sahe.dll
+C:\Users\ibm\source\repos\sahe\sahe\obj\Debug\net5.0\ref\sahe.dll
+C:\Users\ibm\source\repos\sahe\sahe\obj\Debug\net5.0\sahe.pdb
+C:\Users\ibm\source\repos\sahe\sahe\obj\Debug\net5.0\sahe.genruntimeconfig.cache
